@@ -1,2 +1,2 @@
 # technical_training
-C codes
+C and C++ codes
